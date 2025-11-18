@@ -35,7 +35,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shaadclt/Multiple-Disease-Prediction-System.git
+git clone https://github.com/usmansiddiqui18/Multi-Disease-Prediction
 ```
 
 2. Install the required dependencies by running:
